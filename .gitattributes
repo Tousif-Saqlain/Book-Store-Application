@@ -1,2 +1,2 @@
 *.html linguist-detectable=false
-*.springboot linguist-language=true
+*.es linguist-language=springboot
