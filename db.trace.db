@@ -1,0 +1,6 @@
+2024-05-22 23:50:45 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CATEGORY_ID[*]"; expected "COMMIT, CREATE, CALL, CHECKPOINT, COMMENT"; SQL statement:
+CATEGORY_ID [42001-200]
+2024-05-24 00:36:56 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROMPRODUCT[*]  CATEGORY"; SQL statement:
+SELECT * FROMPRODUCT  CATEGORY [42000-200]
